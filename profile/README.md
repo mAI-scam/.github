@@ -10,7 +10,7 @@ Protecting Southeast Asian users from sophisticated scams with SEA-LIONv4 LLM te
 
 ### **🚀 Quick Start for Judges**
 
-**🎬 Watch Videos**: [Project Pitch](https://www.youtube.com/embed/MUg4EGxcHro) | [Demo Walkthrough](https://www.youtube.com/embed/rNhK1GPuOu0)
+**🎬 Watch Videos**: [Project Pitch](https://www.youtube.com/watch?v=GdSI_W8otxg) | [Demo Walkthrough](https://www.youtube.com/embed/rNhK1GPuOu0)
 
 **📦 Try the Extension**: [Download & Install](https://mai-scam.vercel.app/installation) | **🌐 Live Demo Website**: [mai-scam.vercel.app](https://mai-scam.vercel.app/) | **📊 Analytics**: [Admin Dashboard](https://mai-scam-admin.vercel.app/)
 
@@ -62,7 +62,7 @@ Protecting Southeast Asian users from sophisticated scams with SEA-LIONv4 LLM te
 ### **Method 1: Direct Installation**
 
 1. Visit [mai-scam.vercel.app/installation](https://mai-scam.vercel.app/installation)
-2. Download `maiscam-1.0.0-chrome.zip` from [GitHub Releases](https://github.com/mAI-scam/mai-scam-extension/releases/tag/v1.0.1)
+2. Download `maiscam-1.0.0-chrome.zip` from [GitHub Releases](https://github.com/mAI-scam/mai-scam-extension/releases)
 3. Extract files and load as unpacked extension in Chrome
 4. **Test safely** at [shoppe123.vercel.app](https://shoppe123.vercel.app/) (simulated phishing site)
 
@@ -74,7 +74,7 @@ Visit [mai-scam.vercel.app](https://mai-scam.vercel.app/) for interactive demons
 
 ## 🎬 Demo Materials
 
-- **Project Pitch Video**: [YouTube Demo](https://www.youtube.com/embed/MUg4EGxcHro)
+- **Project Pitch Video**: [YouTube Demo](https://www.youtube.com/watch?v=GdSI_W8otxg)
 - **Technical Walkthrough**: [YouTube Tutorial](https://www.youtube.com/embed/rNhK1GPuOu0)
 - **Live Analytics**: [Admin Dashboard](https://mai-scam-admin.vercel.app/)
 
