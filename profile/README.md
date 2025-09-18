@@ -74,8 +74,8 @@ Visit [mai-scam.vercel.app](https://mai-scam.vercel.app/) for interactive demons
 
 ## 🎬 Demo Materials
 
-- **Project Pitch Video**: [YouTube Demo](https://www.youtube.com/watch?v=GdSI_W8otxg)
-- **Technical Walkthrough**: [YouTube Tutorial](https://www.youtube.com/watch?v=rNhK1GPuOu0)
+- **Project Pitch Video**: [YouTube Pitch Video](https://www.youtube.com/watch?v=GdSI_W8otxg)
+- **Technical Walkthrough**: [YouTube Demo Video](https://www.youtube.com/watch?v=rNhK1GPuOu0)
 - **Live Analytics**: [Admin Dashboard](https://mai-scam-admin.vercel.app/)
 
 ---
