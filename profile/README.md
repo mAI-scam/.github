@@ -10,7 +10,7 @@ Protecting Southeast Asian users from sophisticated scams with SEA-LIONv4 LLM te
 
 ### **🚀 Quick Start for Judges**
 
-**🎬 Watch Videos**: [Project Pitch](https://www.youtube.com/watch?v=GdSI_W8otxg) | [Demo Walkthrough](https://www.youtube.com/embed/rNhK1GPuOu0)
+**🎬 Watch Videos**: [Project Pitch](https://www.youtube.com/watch?v=GdSI_W8otxg) | [Demo Walkthrough](https://www.youtube.com/watch?v=rNhK1GPuOu0)
 
 **📦 Try the Extension**: [Download & Install](https://mai-scam.vercel.app/installation) | **🌐 Live Demo Website**: [mai-scam.vercel.app](https://mai-scam.vercel.app/) | **📊 Analytics**: [Admin Dashboard](https://mai-scam-admin.vercel.app/)
 
@@ -75,7 +75,7 @@ Visit [mai-scam.vercel.app](https://mai-scam.vercel.app/) for interactive demons
 ## 🎬 Demo Materials
 
 - **Project Pitch Video**: [YouTube Demo](https://www.youtube.com/watch?v=GdSI_W8otxg)
-- **Technical Walkthrough**: [YouTube Tutorial](https://www.youtube.com/embed/rNhK1GPuOu0)
+- **Technical Walkthrough**: [YouTube Tutorial](https://www.youtube.com/watch?v=rNhK1GPuOu0)
 - **Live Analytics**: [Admin Dashboard](https://mai-scam-admin.vercel.app/)
 
 ---
